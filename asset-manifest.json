@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/InfoStream-Newsapp/static/css/main.31d6cfe0.css",
+    "main.js": "/InfoStream-Newsapp/static/js/main.ae25c8b2.js",
+    "static/js/787.4c026eef.chunk.js": "/InfoStream-Newsapp/static/js/787.4c026eef.chunk.js",
+    "index.html": "/InfoStream-Newsapp/index.html",
+    "main.ae25c8b2.js.map": "/InfoStream-Newsapp/static/js/main.ae25c8b2.js.map",
+    "787.4c026eef.chunk.js.map": "/InfoStream-Newsapp/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ae25c8b2.js"
+  ]
+}
